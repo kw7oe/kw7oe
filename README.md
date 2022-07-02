@@ -15,12 +15,13 @@ I am a Software Engineer based in Malaysia 🇲🇾 (GMT +8).
 
 To make that a reality, I applied to the [Recurse Center][0] (RC) so I could spend
 my time there to become a better programmer along with its community.
-I am currently in the Spring batch at RC and working on:
+I attended the Spring batch 2022 at RC. During my time here, I worked on:
 
 - Writing a [database system](https://github.com/kw7oe/mini-db) in Rust from scratch.
 - Writing a [reverse proxy](https://github.com/kw7oe/rok) like [ngrok][1] in Rust.
 - Writing about how I implement a database system in Rust.
-- Learning about Rust, database system and networking.
+- Implementing [Viewstamped Replication](https://pmg.csail.mit.edu/papers/vr-revisited.pdf) in Elixir.
+- Learning about Rust, database system, network programming, distributed system and exploring the unknowns.
 
 Outside of programming, I enjoy writing and sharing what I learned. You
 can find out more about my writings at my [website][3].
